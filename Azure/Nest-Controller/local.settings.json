@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "ACCESS_TOKEN": "<YOUR_OAUTH_ACCESS_TOKEN_FROM_NEST",
+    "STRUCTURE_ID": "<YOUR_STRUCTURE_ID_FROM_NEST>",
+    "<Event-Hub-Connection-Name>": "<EventHub-Compatible-Endpoint>;EntityPath=<EventHub-Compatible-Name>",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+  }
+}

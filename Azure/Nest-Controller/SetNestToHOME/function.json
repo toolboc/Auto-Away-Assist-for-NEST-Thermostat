@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "eventInput",
+      "connection": "particle-iot-hub_events_IOTHUB",
+      "path": "particle-iot-hub",
+      "consumerGroup": "$Default",
+      "cardinality": "one",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}
