@@ -1,0 +1,5 @@
+{
+    "particle.targetPlatform": "photon",
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "particle.targetDevice": "Nest-Motion-Sensor"
+}
