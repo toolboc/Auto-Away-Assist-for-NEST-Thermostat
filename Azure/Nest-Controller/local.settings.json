@@ -1,9 +1,10 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "ACCESS_TOKEN": "<YOUR_OAUTH_ACCESS_TOKEN_FROM_NEST",
-    "STRUCTURE_ID": "<YOUR_STRUCTURE_ID_FROM_NEST>",
-    "<Event-Hub-Connection-Name>": "<EventHub-Compatible-Endpoint>;EntityPath=<EventHub-Compatible-Name>",
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true"
+    "ACCESS_TOKEN": "<ACCESS_TOKEN>",
+    "STRUCTURE_ID": "<STRUCTURE_ID>",
+    "particle-iot-hub_events_IOTHUB": "<EventHub-Compatible-Endpoint>",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
   }
 }

@@ -4,7 +4,7 @@
       "type": "eventHubTrigger",
       "name": "eventInput",
       "connection": "particle-iot-hub_events_IOTHUB",
-      "path": "particle-iot-hub",
+      "eventHubName": "<EventHubName>",
       "consumerGroup": "$Default",
       "cardinality": "one",
       "direction": "in"
